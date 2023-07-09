@@ -34,5 +34,6 @@ R_air_water
 
 %% loadcase
 
-F_y_g_manifold = - g
+F_y_g_manifold = - g*m_manifold;
+
 	
