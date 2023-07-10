@@ -15,8 +15,12 @@ g = 9.806;
 	V_ww = 1.041;
 	% waterline displacement(m^3)
 	V_d_ww = 9.834*(10^(2));
-	
-R_air_water
+
+% Ratio by volume of air to water
+R_air_water = 0.71;
+% Ratio of total areated volume as air
+R_air = R_air_water/(1 + R_air_water);
+R_water  = 
 
 % manifold piping
 	% flanged
