@@ -1,9 +1,9 @@
 [StartTime]
-Sim Assembly-Operational.MFC=1m:5s
+Sim Assembly-Operational.MFC=3s
 [SolverState]
-Sim Assembly-Operational.MFC=2
+Sim Assembly-Operational.MFC=1
 [MainFrame]
-Sim Assembly-Operational.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+Sim Assembly-Operational.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMEEAAAAAHGCAAAAAELFAAAAADJEAAAAA
 [ShowMin]
 Sim Assembly-Operational.MFC=No
 [SolverType]
