@@ -1,0 +1,16 @@
+[StartTime]
+Sim Assembly-Operational.MFC=3s
+[SolverState]
+Sim Assembly-Operational.MFC=1
+[MainFrame]
+Sim Assembly-Operational.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMEEAAAAAHGCAAAAAELFAAAAADJEAAAAA
+[ShowMin]
+Sim Assembly-Operational.MFC=No
+[SolverType]
+Sim Assembly-Operational.MFC=Linear Analysis
+[StudyType]
+Sim Assembly-Operational.MFC=0
+[StudyName]
+Sim Assembly-Operational.MFC=Operational
+[Solver]
+Sim Assembly-Operational.MFC=Iterative
