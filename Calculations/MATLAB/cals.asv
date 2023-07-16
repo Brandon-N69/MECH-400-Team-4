@@ -75,14 +75,14 @@ r_L2 = 0;
 r_R2 = 1.224;
 r_R8 = 4.622;
 
-EFc = -5282;
-EfcRc = -6464;
+EFc = ;
+EfcRc = ;
 
-Fp = [	2,				2;
+F = [	2,				2;
 		(r_L8+r_R8),	(r_L2+r_R2)];
 
-F_r = [	-EFc;
-		-EfcRc];
+F_r = [	EFc;
+		EfcRc];
 
-F =  linsolve(Fp, F_r);
+
 	
