@@ -45,7 +45,8 @@ pipe_12_T.m = 1.950702*(10^(1));		%Mass (kg)
 pipe_12_T.V = 2.049057134*(10^(-2));	%Pipe Volume (m3)
 pipe_12_T.Vi = 0;						%internal volume
 pipe_12_T.c = [0, 0.11424778, 0];		%centroid distance from origin (m)
-pipe_12_T.d = [0.365125, 0.527050, 0];	%distance from origin to next
+pipe_12_T.d_prev = [0.365125, 0, 0];
+pipe_12_T.d_next = [0.365125, 0.527050, 0];	%distance from origin to next
 
 %injector assembly
 pipe_injector.m = 1.823*(10^(1));
