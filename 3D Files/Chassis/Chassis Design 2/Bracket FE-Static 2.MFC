@@ -1,0 +1,18 @@
+[StartTime]
+Bracket FE-Static 2.MFC=
+[SolverState]
+Bracket FE-Static 2.MFC=2
+[MainFrame]
+Bracket FE-Static 2.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPIIDAAAAAOKAAAAAAAPEAAAAAKNCAAAAA
+[ShowMin]
+Bracket FE-Static 2.MFC=yes
+[SolverType]
+Bracket FE-Static 2.MFC=Linear Analysis
+[StudyType]
+Bracket FE-Static 2.MFC=-1
+[StudyName]
+Bracket FE-Static 2.MFC=Static 2
+[Solver]
+Bracket FE-Static 2.MFC=Sparse
+[Dynamic]
+Bracket FE-Static 2.MFC=0
