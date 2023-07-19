@@ -1,0 +1,16 @@
+[StartTime]
+chassis mounting-With the beam.MFC=22s
+[SolverState]
+chassis mounting-With the beam.MFC=2
+[MainFrame]
+chassis mounting-With the beam.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+chassis mounting-With the beam.MFC=No
+[SolverType]
+chassis mounting-With the beam.MFC=Linear Analysis
+[StudyType]
+chassis mounting-With the beam.MFC=0
+[StudyName]
+chassis mounting-With the beam.MFC=With the beam
+[Solver]
+chassis mounting-With the beam.MFC=Sparse

@@ -1,0 +1,16 @@
+[StartTime]
+chassis mounting-Without the beam.MFC=27s
+[SolverState]
+chassis mounting-Without the beam.MFC=2
+[MainFrame]
+chassis mounting-Without the beam.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPDEBAAAAAPPAAAAAALKCAAAAACNBAAAAA
+[ShowMin]
+chassis mounting-Without the beam.MFC=No
+[SolverType]
+chassis mounting-Without the beam.MFC=Linear Analysis
+[StudyType]
+chassis mounting-Without the beam.MFC=0
+[StudyName]
+chassis mounting-Without the beam.MFC=Without the beam
+[Solver]
+chassis mounting-Without the beam.MFC=Sparse
