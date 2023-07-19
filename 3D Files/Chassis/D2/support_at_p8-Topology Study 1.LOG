@@ -1,0 +1,12 @@
+No.of Nodes = 24230
+No. of elements   = 13953
+Total Solution time =00:00:01.459922
+Topology Error 1= Analysis of the command DVCON_TOPO. The item THICKNESS = 0.0254 is not admitted. The THICKNESS must at least be two times larger than the average size of the elements in the design space. The THICKNESS has to be larger than:   2.7960233E-02 
+Topology Error 2= Analysis of the command DVCON_TOPO. Command will be ignored due to incorrect data. 
+Topology Error 3= Analysis of the command OPTIMIZE. Item DVCON = THICKNESS_MANUFACCONSTRAINT_5 is not admitted. Please ensure that the referenced entry is correctly defined via DVCON_TOPO. 
+Topology Error 4= Analysis of the command OPTIMIZE. Command will be ignored due to incorrect data. 
+Topology Error 5= Analysis of the command OPT_PARAM with ID_NAME OPTIMIZE_1_TOPOLOGY_OPTIMIZATION_SENSITIVITY_OPT_PARAM_. Item OPTIMIZE = OPTIMIZE_1_TOPOLOGY_OPTIMIZATION_SENSITIVITY is not admitted.  Please ensure that the referenced OPTIMIZE entry is defined correctly and is placed before the OPT_PARAM command. 
+Topology Error 6= Analysis of the command OPT_PARAM with ID_NAME OPTIMIZE_1_TOPOLOGY_OPTIMIZATION_SENSITIVITY_OPT_PARAM_. The item OPTIMIZE cannot be analyzed correctly. 
+Topology Error 7= Analysis of the command OPT_PARAM with ID_NAME OPTIMIZE_1_TOPOLOGY_OPTIMIZATION_SENSITIVITY_OPT_PARAM_.  The items of the command OPT_PARAM differ for shape or topology optimization. Due to incorrect data further items cannot be analyzed. The command will be ignored. 
+Topology Error 8= Analysis of the command SAVE -> Generation of data base stopped because of previous errors
+
