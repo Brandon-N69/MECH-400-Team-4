@@ -1,0 +1,16 @@
+[StartTime]
+assembly_mounting-vibrational.MFC=
+[SolverState]
+assembly_mounting-vibrational.MFC=2
+[MainFrame]
+assembly_mounting-vibrational.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+assembly_mounting-vibrational.MFC=yes
+[SolverType]
+assembly_mounting-vibrational.MFC=Linear Analysis
+[StudyType]
+assembly_mounting-vibrational.MFC=-1
+[StudyName]
+[Solver]
+assembly_mounting-vibrational.MFC=Sparse
+[StudyName1]
