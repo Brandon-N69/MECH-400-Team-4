@@ -1,0 +1,16 @@
+[StartTime]
+Support_8-Operational.MFC=29s
+[SolverState]
+Support_8-Operational.MFC=1
+[MainFrame]
+Support_8-Operational.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMEEAAAAAHGCAAAAAELFAAAAADJEAAAAA
+[ShowMin]
+Support_8-Operational.MFC=No
+[SolverType]
+Support_8-Operational.MFC=Linear Analysis
+[StudyType]
+Support_8-Operational.MFC=0
+[StudyName]
+Support_8-Operational.MFC=Operational
+[Solver]
+Support_8-Operational.MFC=Sparse
