@@ -70,19 +70,41 @@ pipe_x.c = connect_fx.c;
 pipe_x.d = connect_fx.d;
 
 
-r_L8 = 3.399;
-r_L2 = 0;
-r_R2 = 1.224;
-r_R8 = 4.622;
+L8 = -4.622;
+L2 = -1.224;
+R2 = 1.224;
+R8 = 4.622;
 
-EFc = -5282;
-EfcRc = -6464;
+O1 = -2.923;
+O2 = -0.657;
 
-Fp = [	2,				2;
-		(r_L8+r_R8),	(r_L2+r_R2)];
+Balance = [	2,	2;
+			(L8-O2) + (R8-O2), 	(L2-O2) + (R2-O2)	];
 
-F_r = [	-EFc;
-		-EfcRc];
+Load_Dry_Fy = -5282;
+Load_Dry_Mz_O1 = Load_Dry_Fy*(-O1);
+Load_Dry_Mz_O2 = Load_Dry_Fy*(-O2);
+Load_Dry_yz = [	-Load_Dry_Fy;
+				-Load_Dry_Mz_O2];
 
-F =  linsolve(Fp, F_r);
-	
+F2 = (-(1/2)*Load_Dry_Fy + (1/R8)*Load_Dry_Mz_O1)/(1- (1/(R8))* (L2+R2));
+			
+Load_Static_Fy = -1666;
+Load_Static_Mz = -0;
+Load_Static_yz = [	-Load_Static_Fy;
+					-Load_Static_Mz];
+
+Load_Operational_Fy = 2078;
+Load_Operational_Mz = 0;
+Load_Operational_yz = [	-Load_Operational_Fy;
+						-Load_Operational_Mz];
+
+Load_Operational_Fz = -2011;
+Load_Operational_My = -0;
+Load_Operational_zy = [	-Load_Operational_Fz;
+						-Load_Operational_My];
+
+R_Dry_y =  linsolve(Balance, Load_Dry_yz);
+R_Static_y = linsolve(Balance, (1/2)*Load_Static_yz);
+R_Operational_y = linsolve(Balance, (1/2)*Load_Operational_yz);
+R_Operational_z = linsolve(Balance, (1/2)*Load_Operational_zy);
