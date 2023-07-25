@@ -2,3 +2,7 @@
 Support_2-Fatigue (regular A and T).MFC=
 [SolverState]
 Support_2-Fatigue (regular A and T).MFC=2
+[ShowMin]
+Support_2-Fatigue (regular A and T).MFC=yes
+[StudyType]
+Support_2-Fatigue (regular A and T).MFC=-1
