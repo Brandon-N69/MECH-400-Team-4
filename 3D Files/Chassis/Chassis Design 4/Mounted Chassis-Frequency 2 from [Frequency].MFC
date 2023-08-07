@@ -1,0 +1,16 @@
+[StartTime]
+Mounted Chassis-Frequency 2 from [Frequency].MFC=
+[SolverState]
+Mounted Chassis-Frequency 2 from [Frequency].MFC=2
+[MainFrame]
+Mounted Chassis-Frequency 2 from [Frequency].MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+Mounted Chassis-Frequency 2 from [Frequency].MFC=yes
+[SolverType]
+Mounted Chassis-Frequency 2 from [Frequency].MFC=Linear Analysis
+[StudyType]
+Mounted Chassis-Frequency 2 from [Frequency].MFC=-1
+[StudyName]
+[Solver]
+Mounted Chassis-Frequency 2 from [Frequency].MFC=Sparse
+[StudyName1]
