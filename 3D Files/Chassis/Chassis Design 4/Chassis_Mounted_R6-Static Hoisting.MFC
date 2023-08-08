@@ -1,0 +1,16 @@
+[StartTime]
+Chassis_Mounted_R6-Static Hoisting.MFC=1m:35s
+[SolverState]
+Chassis_Mounted_R6-Static Hoisting.MFC=1
+[MainFrame]
+Chassis_Mounted_R6-Static Hoisting.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPBHDAAAAAGMBAAAAAJNEAAAAACPDAAAAA
+[ShowMin]
+Chassis_Mounted_R6-Static Hoisting.MFC=No
+[SolverType]
+Chassis_Mounted_R6-Static Hoisting.MFC=Linear Analysis
+[StudyType]
+Chassis_Mounted_R6-Static Hoisting.MFC=0
+[StudyName]
+Chassis_Mounted_R6-Static Hoisting.MFC=Static Hoisting
+[Solver]
+Chassis_Mounted_R6-Static Hoisting.MFC=Sparse
