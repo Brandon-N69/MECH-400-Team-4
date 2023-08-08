@@ -1,0 +1,16 @@
+[StartTime]
+Chassis_Mounted_R6-Static Hoist (Shackles).MFC=3m:53s
+[SolverState]
+Chassis_Mounted_R6-Static Hoist (Shackles).MFC=2
+[MainFrame]
+Chassis_Mounted_R6-Static Hoist (Shackles).MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMEEAAAAAHGCAAAAAELFAAAAAKDDAAAAA
+[ShowMin]
+Chassis_Mounted_R6-Static Hoist (Shackles).MFC=No
+[SolverType]
+Chassis_Mounted_R6-Static Hoist (Shackles).MFC=Linear Analysis
+[StudyType]
+Chassis_Mounted_R6-Static Hoist (Shackles).MFC=0
+[StudyName]
+Chassis_Mounted_R6-Static Hoist (Shackles).MFC=Static Hoist (Shackles)
+[Solver]
+Chassis_Mounted_R6-Static Hoist (Shackles).MFC=Sparse

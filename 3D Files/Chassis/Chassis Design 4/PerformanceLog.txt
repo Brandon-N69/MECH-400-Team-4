@@ -1,2 +1,2 @@
-Number of Contacts: 1816
-Number of contact data: 47702
+Number of Contacts: 1839
+Number of contact data: 49228
