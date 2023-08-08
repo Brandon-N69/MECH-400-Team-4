@@ -1,0 +1,16 @@
+[StartTime]
+Chassis_Mounted-Static Hoisting.MFC=2m:21s
+[SolverState]
+Chassis_Mounted-Static Hoisting.MFC=1
+[MainFrame]
+Chassis_Mounted-Static Hoisting.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMEEAAAAAHGCAAAAAELFAAAAADJEAAAAA
+[ShowMin]
+Chassis_Mounted-Static Hoisting.MFC=No
+[SolverType]
+Chassis_Mounted-Static Hoisting.MFC=Linear Analysis
+[StudyType]
+Chassis_Mounted-Static Hoisting.MFC=0
+[StudyName]
+Chassis_Mounted-Static Hoisting.MFC=Static Hoisting
+[Solver]
+Chassis_Mounted-Static Hoisting.MFC=Iterative
