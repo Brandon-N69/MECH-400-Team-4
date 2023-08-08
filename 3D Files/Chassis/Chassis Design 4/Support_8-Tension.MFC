@@ -1,0 +1,16 @@
+[StartTime]
+Support_8-Tension.MFC=22s
+[SolverState]
+Support_8-Tension.MFC=2
+[MainFrame]
+Support_8-Tension.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+Support_8-Tension.MFC=No
+[SolverType]
+Support_8-Tension.MFC=Linear Analysis
+[StudyType]
+Support_8-Tension.MFC=0
+[StudyName]
+Support_8-Tension.MFC=Tension
+[Solver]
+Support_8-Tension.MFC=Sparse
