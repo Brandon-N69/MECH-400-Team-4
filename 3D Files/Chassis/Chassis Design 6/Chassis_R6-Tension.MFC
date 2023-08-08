@@ -1,0 +1,16 @@
+[StartTime]
+Chassis_R6-Tension.MFC=1m:2s
+[SolverState]
+Chassis_R6-Tension.MFC=1
+[MainFrame]
+Chassis_R6-Tension.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPJODAAAAANBBAAAAABFFAAAAAJEDAAAAA
+[ShowMin]
+Chassis_R6-Tension.MFC=No
+[SolverType]
+Chassis_R6-Tension.MFC=Linear Analysis
+[StudyType]
+Chassis_R6-Tension.MFC=0
+[StudyName]
+Chassis_R6-Tension.MFC=Tension
+[Solver]
+Chassis_R6-Tension.MFC=Sparse
