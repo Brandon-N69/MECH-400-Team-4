@@ -1,0 +1,16 @@
+[StartTime]
+Chassis_Mounted_R6-Static Dryweight.MFC=8m:25s
+[SolverState]
+Chassis_Mounted_R6-Static Dryweight.MFC=1
+[MainFrame]
+Chassis_Mounted_R6-Static Dryweight.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAPNDAAAAA
+[ShowMin]
+Chassis_Mounted_R6-Static Dryweight.MFC=No
+[SolverType]
+Chassis_Mounted_R6-Static Dryweight.MFC=Linear Analysis
+[StudyType]
+Chassis_Mounted_R6-Static Dryweight.MFC=0
+[StudyName]
+Chassis_Mounted_R6-Static Dryweight.MFC=Static Dryweight
+[Solver]
+Chassis_Mounted_R6-Static Dryweight.MFC=Sparse
