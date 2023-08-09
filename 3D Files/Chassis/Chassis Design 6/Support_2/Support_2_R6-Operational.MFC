@@ -1,0 +1,16 @@
+[StartTime]
+Support_2_R6-Operational.MFC=28s
+[SolverState]
+Support_2_R6-Operational.MFC=2
+[MainFrame]
+Support_2_R6-Operational.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+Support_2_R6-Operational.MFC=No
+[SolverType]
+Support_2_R6-Operational.MFC=Linear Analysis
+[StudyType]
+Support_2_R6-Operational.MFC=0
+[StudyName]
+Support_2_R6-Operational.MFC=Operational
+[Solver]
+Support_2_R6-Operational.MFC=Sparse

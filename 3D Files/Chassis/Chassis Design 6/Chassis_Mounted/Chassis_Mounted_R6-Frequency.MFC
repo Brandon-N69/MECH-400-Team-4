@@ -1,0 +1,16 @@
+[StartTime]
+Chassis_Mounted_R6-Frequency.MFC=
+[SolverState]
+Chassis_Mounted_R6-Frequency.MFC=2
+[MainFrame]
+Chassis_Mounted_R6-Frequency.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPGPDAAAAAHBBAAAAAOFFAAAAADEDAAAAA
+[ShowMin]
+Chassis_Mounted_R6-Frequency.MFC=yes
+[SolverType]
+Chassis_Mounted_R6-Frequency.MFC=Linear Analysis
+[StudyType]
+Chassis_Mounted_R6-Frequency.MFC=-1
+[StudyName]
+[Solver]
+Chassis_Mounted_R6-Frequency.MFC=Sparse
+[StudyName1]

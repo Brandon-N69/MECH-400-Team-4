@@ -1,16 +1,18 @@
 [StartTime]
-Support_2_R6-Tension.MFC=16s
+Support_2_R6-Tension.MFC=
 [SolverState]
 Support_2_R6-Tension.MFC=2
 [MainFrame]
-Support_2_R6-Tension.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+Support_2_R6-Tension.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
 [ShowMin]
-Support_2_R6-Tension.MFC=No
+Support_2_R6-Tension.MFC=yes
 [SolverType]
 Support_2_R6-Tension.MFC=Linear Analysis
 [StudyType]
-Support_2_R6-Tension.MFC=0
+Support_2_R6-Tension.MFC=-1
 [StudyName]
 Support_2_R6-Tension.MFC=Tension
 [Solver]
 Support_2_R6-Tension.MFC=Sparse
+[Dynamic]
+Support_2_R6-Tension.MFC=0
